@@ -1,5 +1,7 @@
 # Awesome Machine Learning **Infrastructure** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+Target audience: Infrastructure Engineers building ML / DS infrastructure, who have a conceptual understanding of the domain they are building systems for nd are primarily NOT 'data science' specialists. 
+
 A curated list for machine learning / data science frameworks, libraries, software and resources for **building ML (or Data Science) platforms or infrastructure**. 
 
 This list is not for ML / DS domain-specific technologies / projects. Thanks to [@josephmisiti](https://github.com/josephmisiti) who has an '[awesome](https://github.com/josephmisiti/awesome-machine-learning)' list covering all that.
@@ -18,4 +20,4 @@ TBD!
 
 <!-- MarkdownTOC depth=4 -->
 
-- [FOO](#foo) - something wil go here
+- [FOO](#foo) - something will go here
