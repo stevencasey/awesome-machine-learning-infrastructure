@@ -20,4 +20,13 @@ TBD!
 
 <!-- MarkdownTOC depth=4 -->
 
-- [FOO](#foo) - something will go here
+- [Data Engineering](#data-engineering)
+
+
+### Data Engineering
+
+* [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering) - 'Awesome' list of data platform technologies
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
