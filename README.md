@@ -32,7 +32,7 @@ TBD!
 
 # Conferences
 * [DataEngConf](https://www.dataengconf.com/about) - DataEngConf is the first technical conference that bridges the gap between data scientists, data engineers and data analysts.
-* [ainextcon](
+* [AI NEXTCon](http://aisv18.xnextcon.com/) - Relatively small conference. Some good building ML infra talks mixed in with tracks on DS specialties. Decent hallway track due to small size. Light on sponsors/exhibitors.
 
 # Podcasts
 * [Data Engineering Podcast](https://www.dataengineeringpodcast.com/) - The show about modern data infrastructure.
