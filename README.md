@@ -1,6 +1,6 @@
 # Awesome Machine Learning **Infrastructure** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Target audience: Infrastructure Engineers building ML / DS infrastructure, who have a conceptual understanding of the domain they are building systems for nd are primarily NOT 'data science' specialists. 
+Target audience: Infrastructure Engineers building ML / DS infrastructure, who have a conceptual understanding of the domain they are building systems for and are primarily NOT 'data science' specialists. 
 
 A curated list for machine learning / data science frameworks, libraries, software and resources for **building ML (or Data Science) platforms or infrastructure**. 
 
@@ -16,16 +16,31 @@ Further resources:
 
 TBD!
 
-## Table of Contents
+# Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
-
 - [Data Engineering](#data-engineering)
+- [Metadata management](#metadata-management)
 
+# Data Engineering
 
-### Data Engineering
+* [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering) - 'Awesome' list of data platform technologies (majority of data eng content here is from the list there)
+* [The Data Engineering Ecosystem: An Interactive Map](http://xyz.insightdataengineering.com/blog/pipeline_map.html) - Great interactive map of data eng systems.
 
-* [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering) - 'Awesome' list of data platform technologies
+# Metadata management
+* [Apache Atlas](https://atlas.apache.org/) - Data governance, Metadata management, Data Lineage
+
+# Conferences
+* [DataEngConf](https://www.dataengconf.com/about) - DataEngConf is the first technical conference that bridges the gap between data scientists, data engineers and data analysts.
+* [ainextcon](
+
+# Podcasts
+* [Data Engineering Podcast](https://www.dataengineeringpodcast.com/) - The show about modern data infrastructure.
+
+# Weekly news
+* [Data Engineering Weekly news](https://www.dataengweekly.com/) - provides weekly latest data eng news in your inbox
+
+#
 
 ## License
 
