@@ -33,8 +33,8 @@ Also, a listed repository should be deprecated if:
 # Deployment
 
 * [kubeflow](https://github.com/kubeflow/kubeflow) - making deployments of machine learning (ML) workflows on Kubernetes simple, portable and scalable. Deploy best-of-breed open-source systems for ML to diverse infrastructures.
-  * video
-  
+* [Sagemaker](https://aws.amazon.com/sagemaker/) 
+
 # Ethics
 
 * [Guidelines for ethical modeling](https://github.com/dynamicwebpaige/DISC-unconf) - A collection of resources and tools designed to provide guidelines for ethical modeling.
